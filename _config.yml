@@ -8,13 +8,13 @@ permalink:        pretty
 
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
+url:              https://evgenyoliver.xyz
+baseurl: ""
 
 # Setup
 title:            Hyde
 tagline:          "Evgenyoliver's blog"
 description:      "Evgenyoliver's blog page"
-url:              http://evgenyoliver.xyz
-baseurl:          /
 
 author:
   name:           'Evgeny Ananiev'
